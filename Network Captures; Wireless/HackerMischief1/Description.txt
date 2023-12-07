@@ -1,0 +1,3 @@
+What program did the user stop?
+
+Answer: Security Center
