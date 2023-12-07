@@ -1,0 +1,3 @@
+What is the user "hansolo"s UID?
+
+Answer: 800888
