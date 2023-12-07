@@ -1,3 +1,0 @@
-Instructions:
-
-Find the user added that wasnt deleted and find the password
